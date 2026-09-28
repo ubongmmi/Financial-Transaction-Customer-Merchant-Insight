@@ -44,7 +44,7 @@ The analysis followed these steps:
 
 ---
 
-## 4. Analysis and Findings
+## 4. Analysis and Findings ![Financial Transaction Customer Merchant Insight](Fin01.jpg)
 
 ### 4.1 Overall Performance
 
