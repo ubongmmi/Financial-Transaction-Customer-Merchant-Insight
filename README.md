@@ -90,7 +90,7 @@ The top five currencies sit within about 2% of each other, so no single currency
 
 Every top single transaction lands just under 10,000, which suggests transaction amounts run up to a ceiling of roughly 10,000.
 
-### 4.5 Top 10 Merchants by Total Amount
+### 4.5 Top 10 Merchants by Total Amount ![Financial Transaction Customer Merchant Insight](Fin02.jpg)
 - Zuniga Group: **13K**
 - Zimmerman PLC: **13K**
 - Zuniga PLC: **11K**
