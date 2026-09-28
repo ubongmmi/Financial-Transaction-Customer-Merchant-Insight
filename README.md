@@ -81,7 +81,7 @@ Spend is spread almost evenly across the five categories — the gap between the
 
 The top five currencies sit within about 2% of each other, so no single currency dominates spend.
 
-### 4.4 Highest Single Transaction by Currency (Top 5)
+### 4.4 Highest Single Transaction by Currency (Top 5) ![Financial Transaction Customer Merchant Insight](Fin02.jpg)
 - FJD: **9,999.80**
 - TJS: **9,999.07**
 - BMD: **9,998.03**
@@ -90,7 +90,7 @@ The top five currencies sit within about 2% of each other, so no single currency
 
 Every top single transaction lands just under 10,000, which suggests transaction amounts run up to a ceiling of roughly 10,000.
 
-### 4.5 Top 10 Merchants by Total Amount ![Financial Transaction Customer Merchant Insight](Fin02.jpg)
+### 4.5 Top 10 Merchants by Total Amount 
 - Zuniga Group: **13K**
 - Zimmerman PLC: **13K**
 - Zuniga PLC: **11K**
